@@ -1,0 +1,1 @@
+# here is only one thing that is tricky that is the state variable playing when it reaches the condition that if the score is greater than than do etc here we also change the value of the sate variable to false it will also change the playing in the global scope to false now the next time both functions are executed the value of the playing will be false so no code is to executed
